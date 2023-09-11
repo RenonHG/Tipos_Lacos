@@ -1,0 +1,7 @@
+C:\Users\renon.hgusson\source\repos\Tipos_lacos\Tipos_lacos\obj\Debug\Tipos_lacos.csproj.AssemblyReference.cache
+C:\Users\renon.hgusson\source\repos\Tipos_lacos\Tipos_lacos\obj\Debug\Tipos_lacos.csproj.CoreCompileInputs.cache
+C:\Users\renon.hgusson\source\repos\Tipos_lacos\Tipos_lacos\bin\Debug\Tipos_lacos.exe.config
+C:\Users\renon.hgusson\source\repos\Tipos_lacos\Tipos_lacos\bin\Debug\Tipos_lacos.exe
+C:\Users\renon.hgusson\source\repos\Tipos_lacos\Tipos_lacos\bin\Debug\Tipos_lacos.pdb
+C:\Users\renon.hgusson\source\repos\Tipos_lacos\Tipos_lacos\obj\Debug\Tipos_lacos.exe
+C:\Users\renon.hgusson\source\repos\Tipos_lacos\Tipos_lacos\obj\Debug\Tipos_lacos.pdb
