@@ -55,7 +55,7 @@ namespace Tipos_lacos
             else if(menu == 3)
             {
                 Console.ForegroundColor = ConsoleColor.DarkYellow;
-                Console.Write("Digite um valor: ");
+                Console.Write("Digite um valor de 10 a 5: ");
                 int condicao = int.Parse(Console.ReadLine());
 
 
